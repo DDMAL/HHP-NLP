@@ -1,5 +1,5 @@
 # HHP-NLP
-This repo contains all the NLP-related code. 
+This repo contains implementation of information extraction frames using current NLP tools, including StanfordCore nlp, nltk, openie, etc.  
 
 extraction_java folder contains programs used as base for webapp, which is based on Stanford core nlp. It requires both stanford-corenlp.jar and stanford-corenlp-models.jar to run.
 
