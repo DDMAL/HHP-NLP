@@ -7,7 +7,7 @@ extraction_python has programs in python. One version uses a testing simple core
 
 Above two are based on openie 4.0.
 
-inintial effort is an early version of extraction frame, which is based on ollie, openie 3.0.
+inintial_effort is an early version of extraction frame, which is based on ollie, openie 3.0.
 
 related folder contains related works, including a simple RE program based on dependency graph.
 
