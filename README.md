@@ -9,6 +9,6 @@ Above two are based on openie 4.0. To run them openie-assembly.jar should be inc
 
 inintial_effort is an early version of extraction frame, which is based on ollie, openie 3.0.
 
-related folder contains related works, including a simple IE program based on dependency graph.
+related folder contains related works, including a simple IE program based on dependency graph analysis.
 
 
