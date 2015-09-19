@@ -1,7 +1,6 @@
 output = extraction.txt
 input = record.txt
-models =.
-jar_files =.
+
 export STANFORD_MODELS := $(models)
 export CLASSPATH := $(jar_files)
 
