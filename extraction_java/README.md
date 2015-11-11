@@ -1,4 +1,4 @@
-I. First Use filter.java to preprocess the file.
+I. First Use Filter.java to preprocess the file.
 
 II. Then use a command similar to the following one to perform extraction. 
 
@@ -8,4 +8,4 @@ openie-assembly.jar is generated from openie project. More details are in:
 
 https://github.com/knowitall/openie
 
-III. Then Run process.java to reformat the extraction result so that it could be read by Event Editor.
+III. Then Run Load.java to reformat the extraction result so that it could be read by Event Editor.
